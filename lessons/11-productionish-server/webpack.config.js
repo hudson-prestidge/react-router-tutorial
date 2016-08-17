@@ -3,7 +3,7 @@ module.exports = {
 
   output: {
     filename: 'bundle.js',
-    path: 'public',
+    path: 'public',n
     publicPath: '/'
   },
 
